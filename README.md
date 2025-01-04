@@ -1,16 +1,19 @@
-# signupapp
+# shooping app with localization
 
-A new Flutter project.
+## Description
+A simple shopping app with animation and sign-up page with validation, and shopping screen.
 
-## Getting Started
+## Features
+1.Sign-Up page
+2.Shopping Screen
 
-This project is a starting point for a Flutter application.
+## How to Run
+1. Clone the repository or copy the `main.dart` file to your local system.
+2. Navigate to the project directory in your terminal.
+3. Run the program using the following command:
+   ```bash
+   dart run main.dart
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+   
+## Example Output
+![Output Screenshot](screenshot.png)
