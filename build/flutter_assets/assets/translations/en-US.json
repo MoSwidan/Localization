@@ -1,0 +1,21 @@
+{
+    "Success":"Success",
+    "MSG1":"Account created successfully",
+    "Close":"Close",
+    "SignUp":"Sign Up",
+    "FullName":"Full Name",
+    "MSG2":"Full name is required",
+    "MSG3":"The first letter must be capitalized",
+    "Email":"Email",
+    "MSG4":"Email is required",
+    "MSG5":"Email must contain @",
+    "Password":"Password",
+    "MSG6":"Password is required",
+    "MSG7":"Password must be at least 6 characters",
+    "ConfirmPassword":"Confirm Password",
+    "MSG8":"Confirm password is required",
+    "MSG9":"Passwords do not match",
+    "ShoppingApp":"Shopping App",
+    "OurProducts":"Our Products",
+    "HotOffers":"Hot Offers"
+}
